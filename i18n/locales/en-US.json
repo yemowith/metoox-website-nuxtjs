@@ -1,0 +1,349 @@
+{
+  "locale.en": "English",
+  "locale.tr": "Turkish",
+  "locale.ar": "Arabic",
+  "locale.dir": "ltr",
+  "site": {
+    "name": "Han Holding",
+    "description": "Han Holding: The Guarantee of Trade and Industry."
+  },
+  "themes": {
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "media": {
+    "follow": "Follow Us"
+  },
+  "home": {
+    "subtitle": "Shaping the Future",
+    "title1": "Taking Your",
+    "title2": "Business Growth & Revenue",
+    "title3": "to the",
+    "title4": "Next Level",
+    "text": "At Han Holding, we lead sustainable growth with innovative solutions in construction, logistics, defense industry, energy, and more.",
+    "button": "Learn More",
+    "video": "Get to Know Us",
+    "partners": "Our partners",
+    "services": "Our Services",
+    "slogan": "Shaping the Future with  Innovative Solutions",
+
+    "about": {
+      "subtitle": "ABOUT US",
+      "title": "Advancing Beyond Your Expectations",
+      "description": "At Han Holding, we are committed to delivering innovative solutions that exceed your expectations. Our expertise spans across multiple industries, ensuring excellence in every project we undertake.",
+      "list_item_1": "Innovative and sustainable solutions",
+      "list_item_2": "Expertise across multiple industries",
+      "list_item_3": "Customer-focused approach",
+      "list_item_4": "Global reach with local expertise",
+      "additional_description": "We prioritize security, efficiency, and sustainability in all our operations. Partner with us to experience unparalleled service and results.",
+      "button_text": "Discover More"
+    }
+  },
+  "global": {
+    "needHelp": "Need help?",
+    "slogan": "Han Holding: The Guarantee of Trade and Industry.",
+    "business_sectors": "Business Sectors",
+    "copyright": " All Rights Reserved",
+    "newsletter": "Subscribe To Our Newsletter",
+    "newsletter_placeholder": "Enter your email address",
+    "newsletter_button": "Subscribe",
+    "newsletter_success": "You have successfully subscribed to our newsletter.",
+    "newsletter_error": "An error occurred while subscribing to our newsletter.",
+    "read_more": "Read more",
+    "no_data": "There are no data"
+  },
+  "pages": {
+    "index": {
+      "meta": {
+        "title": "Home",
+        "description": "Home page"
+      },
+      "link": "Home"
+    },
+    "corporate": {
+      "meta": {
+        "title": "Corporate",
+        "description": "Corporate"
+      },
+      "link": "Corporate",
+      "pages": {
+        "about": {
+          "meta": {
+            "title": "About",
+            "description": "About"
+          },
+          "link": "About",
+          "content": {
+            "subtitle": "ABOUT US",
+            "title": "Han Holding: Driving Innovation and Global Development",
+            "description": "Han Holding is a globally recognized investment and business conglomerate, specializing in diverse industries including construction, logistics, defense, energy, tourism, mining, agriculture, food, chemistry, and international trade. Our expertise drives economic growth, fosters innovation, and ensures sustainable progress worldwide.",
+            "commitment_title": "Commitment to Excellence",
+            "commitment_description": "Han Holding prioritizes quality, innovation, and sustainability in all projects. Our approach ensures high standards in engineering, logistics, and economic development.",
+            "global_title": "Global Influence",
+            "global_description": "With operations across multiple continents, we leverage cutting-edge technology and strategic investments to create lasting economic impact in every industry we serve."
+          }
+        },
+        "vision-mission": {
+          "meta": {
+            "title": "Vision & Mission",
+            "description": "Vision & Mission"
+          },
+          "link": "Vision & Mission",
+          "content": {
+            "subtitle": "Our Vision & Mission",
+            "title": "Building a Sustainable Future with Innovation",
+            "description": "At Han Holding, we are committed to shaping a future driven by innovation, sustainability, and excellence. Our vision is to become a globally recognized leader in multiple industries by integrating cutting-edge technology and sustainable practices into our core business operations.",
+            "commitment_title": "Commitment to Excellence",
+            "commitment_description": "We uphold the highest standards in every sector we operate in, ensuring quality, transparency, and long-term value for our stakeholders.",
+            "global_title": "Global Expansion & Leadership",
+            "global_description": "With a strong presence in multiple industries, we aim to expand our influence globally, creating innovative solutions that drive economic growth and sustainability."
+          }
+        }
+      }
+    },
+    "services": {
+      "meta": {
+        "title": "Service",
+        "description": "Service"
+      },
+      "link": "Services",
+      "pages": {
+        "construction": {
+          "meta": {
+            "title": "Construction",
+            "description": "Han Holding delivers innovative and sustainable construction projects, shaping the cities of tomorrow with modern infrastructure and eco-friendly designs."
+          },
+          "link": "Construction",
+          "content": {
+            "subtitle": "OUR EXPERTISE",
+            "title": "Building the Future with Innovation and Sustainability",
+            "description": "At Han Holding, we are redefining the construction industry by delivering state-of-the-art infrastructure projects that combine cutting-edge technology with sustainable practices. Our commitment to quality and innovation ensures that every project we undertake stands as a testament to excellence.",
+            "quality_title": "Uncompromising Quality",
+            "quality_description": "We adhere to the highest standards of construction, ensuring that every structure we build is safe, durable, and built to last. Our team of experts meticulously oversees every phase of the project, from planning to execution.",
+            "sustainability_title": "Sustainable Construction",
+            "sustainability_description": "Sustainability is at the core of our construction philosophy. We utilize eco-friendly materials and energy-efficient technologies to minimize environmental impact while maximizing long-term value for our clients."
+          }
+        },
+        "logistics": {
+          "meta": {
+            "title": "Logistics",
+            "description": "Han Holding provides fast, reliable, and integrated logistics solutions, optimizing supply chains for businesses worldwide."
+          },
+          "link": "Logistics",
+          "content": {
+            "subtitle": "OUR SERVICES",
+            "title": "Delivering Excellence in Logistics Solutions",
+            "description": "At Han Holding, we provide fast, reliable, and integrated logistics solutions tailored to meet the needs of businesses worldwide. Our advanced technology and efficient processes ensure seamless supply chain management.",
+            "efficiency_title": "Operational Efficiency",
+            "efficiency_description": "We optimize every step of the logistics process to ensure timely delivery and cost-effective solutions. Our team is dedicated to maximizing efficiency and minimizing delays.",
+            "technology_title": "Advanced Technology",
+            "technology_description": "We leverage cutting-edge technology to track, manage, and streamline logistics operations. Our systems provide real-time visibility and control over your supply chain."
+          }
+        },
+        "defense_industry": {
+          "meta": {
+            "title": "Defense Industry",
+            "description": "Han Holding develops cutting-edge defense technologies, contributing to national security and global defense capabilities."
+          },
+          "link": "Defense Industry",
+          "content": {
+            "subtitle": "OUR EXPERTISE",
+            "title": "Innovating for a Safer Future",
+            "description": "At Han Holding, we are committed to advancing defense technologies that ensure national and global security. Our cutting-edge solutions and strategic partnerships drive innovation in the defense industry.",
+            "innovation_title": "Technological Innovation",
+            "innovation_description": "We invest in research and development to create state-of-the-art defense systems. Our focus is on delivering reliable and advanced solutions that meet the evolving needs of modern warfare.",
+            "security_title": "Enhanced Security",
+            "security_description": "Our defense solutions prioritize safety and security, providing robust protection against emerging threats. We work closely with governments and organizations to safeguard communities worldwide."
+          }
+        },
+        "energy": {
+          "meta": {
+            "title": "Energy",
+            "description": "Han Holding focuses on renewable energy sources, driving sustainable energy solutions for a greener future."
+          },
+          "link": "Energy",
+          "content": {
+            "subtitle": "OUR FOCUS",
+            "title": "Powering the Future with Sustainable Energy",
+            "description": "At Han Holding, we are dedicated to developing innovative energy solutions that promote sustainability and reduce environmental impact. Our projects in renewable energy and energy efficiency are shaping a greener future.",
+            "renewable_title": "Renewable Energy",
+            "renewable_description": "We invest in solar, wind, and hydroelectric power projects to harness clean and renewable energy sources. Our goal is to reduce dependency on fossil fuels and combat climate change.",
+            "efficiency_title": "Energy Efficiency",
+            "efficiency_description": "We design and implement energy-efficient systems that minimize waste and maximize output. Our solutions help businesses and communities reduce their energy consumption and costs."
+          }
+        },
+        "tourism": {
+          "meta": {
+            "title": "Tourism",
+            "description": "Han Holding offers luxurious hotels and resorts, creating unforgettable experiences for travelers while promoting cultural and natural heritage."
+          },
+          "link": "Tourism",
+          "content": {
+            "subtitle": "OUR VISION",
+            "title": "Creating Unforgettable Travel Experiences",
+            "description": "At Han Holding, we are dedicated to offering exceptional travel experiences that combine luxury, comfort, and cultural richness. Our hotels, resorts, and tourism projects are designed to provide guests with unforgettable memories.",
+            "luxury_title": "Luxury Accommodations",
+            "luxury_description": "We provide world-class luxury accommodations that cater to the needs of discerning travelers. Our properties are designed to offer the ultimate in comfort and elegance.",
+            "culture_title": "Cultural Tourism",
+            "culture_description": "We promote cultural tourism by showcasing the unique heritage and traditions of the regions we operate in. Our projects aim to preserve and celebrate local cultures while offering enriching experiences to visitors."
+          }
+        },
+        "mining": {
+          "meta": {
+            "title": "Mining",
+            "description": "Han Holding utilizes efficient and environmentally responsible mining practices to extract and process natural resources."
+          },
+          "link": "Mining",
+          "content": {
+            "subtitle": "OUR APPROACH",
+            "title": "Responsible and Innovative Mining Solutions",
+            "description": "At Han Holding, we are committed to sustainable and responsible mining practices. Our projects focus on extracting natural resources efficiently while minimizing environmental impact and ensuring the safety of our workforce.",
+            "responsible_title": "Responsible Mining",
+            "responsible_description": "We prioritize environmental protection and community well-being in all our mining operations. Our practices are designed to ensure long-term sustainability and positive social impact.",
+            "technology_title": "Advanced Technology",
+            "technology_description": "We leverage cutting-edge technology to optimize mining processes, improve safety, and reduce environmental footprint. Our innovative solutions set new standards in the mining industry."
+          }
+        },
+        "food_agriculture_and_animal_husbandry": {
+          "meta": {
+            "title": "Food, Agriculture and Animal Husbandry",
+            "description": "Han Holding ensures high-quality and healthy food production through modern agriculture and sustainable farming practices."
+          },
+          "link": "Food and Animal Husbandry",
+          "content": {
+            "subtitle": "OUR MISSION",
+            "title": "Sustainable Solutions for Food, Agriculture, and Livestock",
+            "description": "At Han Holding, we are dedicated to advancing sustainable practices in food production, agriculture, and livestock management. Our initiatives ensure food security, promote environmental sustainability, and support rural communities.",
+            "agriculture_title": "Modern Agriculture",
+            "agriculture_description": "We implement innovative agricultural techniques to increase productivity and ensure the quality of crops. Our focus is on sustainable farming practices that protect the environment and support farmers.",
+            "livestock_title": "Livestock Management",
+            "livestock_description": "We prioritize animal welfare and efficient livestock management to produce high-quality, healthy food products. Our practices ensure the well-being of animals and the sustainability of the livestock industry."
+          }
+        },
+        "chemistry": {
+          "meta": {
+            "title": "Chemistry",
+            "description": "Han Holding innovates in the chemical industry, delivering advanced solutions for pharmaceuticals, cosmetics, and industrial applications."
+          },
+          "link": "Chemistry",
+          "content": {
+            "subtitle": "OUR FOCUS",
+            "title": "Innovating for a Sustainable Future in Chemistry",
+            "description": "At Han Holding, we are committed to developing advanced chemical solutions that drive innovation and sustainability. Our products and technologies are designed to meet the evolving needs of industries while minimizing environmental impact.",
+            "innovation_title": "Chemical Innovation",
+            "innovation_description": "We invest in research and development to create cutting-edge chemical products that enhance industrial processes and improve quality of life. Our focus is on delivering solutions that are both effective and environmentally friendly.",
+            "sustainability_title": "Sustainable Practices",
+            "sustainability_description": "We prioritize sustainability in all our chemical processes, from production to disposal. Our goal is to reduce waste, conserve resources, and promote eco-friendly practices across the industry."
+          }
+        },
+        "national_international_trade": {
+          "meta": {
+            "title": "National/International Trade",
+            "description": "Han Holding strengthens global trade networks, fostering economic growth through strategic partnerships and innovative trade models."
+          },
+          "link": "National/International Trade",
+          "content": {
+            "subtitle": "OUR VISION",
+            "title": "Driving Growth Through Global Trade",
+            "description": "At Han Holding, we are dedicated to fostering economic growth by facilitating national and international trade. Our strategic partnerships and innovative trade solutions connect markets, create opportunities, and drive sustainable development.",
+            "global_title": "Global Trade Networks",
+            "global_description": "We leverage our extensive global network to connect businesses and markets worldwide. Our expertise in logistics, customs, and trade regulations ensures seamless cross-border transactions.",
+            "strategy_title": "Strategic Trade Solutions",
+            "strategy_description": "We provide tailored trade solutions that help businesses expand their reach and optimize their operations. Our focus is on creating value for our partners through innovative and efficient trade practices."
+          }
+        }
+      }
+    },
+    "media": {
+      "meta": {
+        "title": "Media",
+        "description": "Media"
+      },
+      "link": "Media",
+      "pages": {
+        "in_press": {
+          "meta": {
+            "title": "We in the press",
+            "description": "We in the press"
+          },
+          "link": "We in the press"
+        },
+        "news": {
+          "meta": {
+            "title": "News",
+            "description": "News"
+          },
+          "link": "News"
+        },
+        "events": {
+          "meta": {
+            "title": "Events",
+            "description": "Events"
+          },
+          "link": "Events"
+        },
+        "gallery": {
+          "meta": {
+            "title": "Gallery",
+            "description": "Gallery"
+          },
+          "link": "Gallery"
+        }
+      }
+    },
+    "contact": {
+      "meta": {
+        "title": "Contact us",
+        "description": "Contact us"
+      },
+      "link": "Contact us",
+      "content": {
+        "subtitle": "Direct contact us?",
+        "description": "We are here to answer any questions you may have about our services. Reach out to us and we'll respond as soon as we can.",
+        "address": "Address",
+        "phone": "Phone",
+        "email": "Email",
+        "form": {
+          "name": "Name",
+          "email": "Email",
+          "subject": "Subject",
+          "message": "Message",
+          "button": "Send Message",
+          "success": "Your message has been sent successfully.",
+          "error": "An error occurred while sending your message."
+        }
+      }
+    },
+    "legals": {
+      "meta": {
+        "title": "Legal",
+        "description": "Legal"
+      },
+      "link": "Legal",
+      "pages": {
+        "terms_condition": {
+          "meta": {
+            "title": "Terms & Condition",
+            "description": "Terms & Condition"
+          },
+          "link": "Terms & Condition"
+        },
+        "privacy_policy": {
+          "meta": {
+            "title": "Privacy Policy",
+            "description": "Privacy Policy"
+          },
+          "link": "Privacy Policy"
+        },
+        "cookies_policy": {
+          "meta": {
+            "title": "Cookies Policy",
+            "description": "Cookies Policy"
+          },
+          "link": "Cookies Policy"
+        }
+      }
+    }
+  }
+}
