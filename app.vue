@@ -39,6 +39,11 @@ useSeoMeta({
   twitterTitle: t("site.name"),
   twitterDescription: t("site.description"),
   twitterImage: "https://metooxholding.com/media/og/image.jpg",
+  twitterCard: "summary_large_image",
+  ogType: "website",
+  ogSiteName: t("site.name"),
+  twitterSite: "@metooxholding",
+  twitterCreator: "@metooxholding",
 });
 </script>
 
