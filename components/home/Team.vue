@@ -34,7 +34,7 @@ const { t } = useI18n();
             <!-- Social Brands -->
             <div class="mt-4 space-x-2.5 sm:mt-auto">
               <a
-                class="focus:outline-hidden text-lighter inline-flex items-center justify-center rounded-full hover:text-gray-800 focus:text-gray-800"
+                class="focus:outline-hidden text-lighter hover:text-light/50 focus:text-light/50 inline-flex items-center justify-center rounded-full"
                 href="tel:+41782466363"
               >
                 <svg
@@ -56,8 +56,8 @@ const { t } = useI18n();
               </a>
 
               <a
-                class="focus:outline-hidden text-lighter inline-flex items-center justify-center rounded-full hover:text-gray-800 focus:text-gray-800"
-                href="mail:berg@metooxholding.com"
+                class="focus:outline-hidden text-lighter hover:text-light/50 focus:text-light/50 inline-flex items-center justify-center rounded-full"
+                href="mailto:berg@metooxholding.com"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -96,7 +96,7 @@ const { t } = useI18n();
             <!-- Social Brands -->
             <div class="mt-4 space-x-2.5 sm:mt-auto">
               <a
-                class="focus:outline-hidden text-lighter inline-flex items-center justify-center rounded-full hover:text-gray-800 focus:text-gray-800"
+                class="focus:outline-hidden text-lighter hover:text-light/50 focus:text-light/50 inline-flex items-center justify-center rounded-full"
                 href="tel:+41783414242"
               >
                 <svg
@@ -118,8 +118,8 @@ const { t } = useI18n();
               </a>
 
               <a
-                class="focus:outline-hidden text-lighter inline-flex items-center justify-center rounded-full hover:text-gray-800 focus:text-gray-800"
-                href="mail:edundar@metooxholding.com"
+                class="focus:outline-hidden text-lighter hover:text-light/50 focus:text-light/50 inline-flex items-center justify-center rounded-full"
+                href="mailto:edundar@metooxholding.com"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
