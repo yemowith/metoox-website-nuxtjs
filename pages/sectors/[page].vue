@@ -46,7 +46,7 @@ useSeoMeta({
           <div class="lg:col-span-2">
             <div class="py-8 lg:pe-8">
               <div class="text-lighter mt-6 space-y-5 text-base lg:space-y-8">
-                <h2 class="text-lighter text-left text-4xl font-semibold">
+                <h2 class="text-lighter text-left text-4xl font-semibold leading-[2rem]">
                   {{ t(`${baseKey}.content.title`) }}
                 </h2>
                 <p>{{ t(`${baseKey}.content.paragraph1`) }}</p>
