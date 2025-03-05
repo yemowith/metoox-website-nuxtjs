@@ -11,6 +11,21 @@ useSeoMeta({
   title: t("pages.corporate.pages.about.meta.title"),
   description: t("pages.corporate.pages.about.meta.description"),
 });
+
+const partners = [
+  {
+    name: "Polytope Holdings",
+    link: "https://polytope.holdings/",
+  },
+  {
+    name: "UNAccc",
+    link: "https://unaccc.org/",
+  },
+  {
+    name: "World Economic Forum",
+    link: "https://weforum.org/",
+  },
+];
 </script>
 
 <template>
@@ -21,7 +36,7 @@ useSeoMeta({
         {{ t("pages.corporate.pages.about.section.title") }}
       </h2>
 
-      <div class="text-lighter mt-6 space-y-6 text-base">
+      <div class="text-lighter mt-6 space-y-6 leading-[2rem]">
         <p>{{ t("pages.corporate.pages.about.section.paragraph1") }}</p>
         <p>{{ t("pages.corporate.pages.about.section.paragraph2") }}</p>
         <p>{{ t("pages.corporate.pages.about.section.paragraph3") }}</p>
@@ -29,6 +44,21 @@ useSeoMeta({
         <p>{{ t("pages.corporate.pages.about.section.paragraph5") }}</p>
         <p>{{ t("pages.corporate.pages.about.section.paragraph6") }}</p>
         <p>{{ t("pages.corporate.pages.about.section.paragraph7") }}</p>
+        <p>{{ t("pages.corporate.pages.about.section.paragraph8") }}</p>
+      </div>
+
+      <div class="text-lighter mt-16 space-y-6 text-base">
+        <h3 class="text-lighter text-left text-xl font-semibold">
+          {{ t("global.partner") }}
+        </h3>
+
+        <ul class="list-disc space-y-2 pl-5">
+          <li v-for="partner in partners" :key="partner.name">
+            <a :href="partner.link" target="_blank" class="hover:underline">
+              {{ partner.name }}
+            </a>
+          </li>
+        </ul>
       </div>
     </div>
   </section>

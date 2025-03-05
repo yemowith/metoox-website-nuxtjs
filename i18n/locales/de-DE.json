@@ -51,7 +51,8 @@
     }
   },
   "global": {
-    "no_data": "Keine Daten verfügbar"
+    "no_data": "Keine Daten verfügbar",
+    "partner": "Partnerunternehmen"
   },
   "pages": {
     "index": {
@@ -87,7 +88,8 @@
             "paragraph4": "Darüber hinaus bieten wir Beratungsdienstleistungen in den Bereichen Compliance, Datenschutz und Anti-Geldwäsche (AML) an. Durch die Integration verschiedener Fachbereiche in unserem Unternehmen unterstützen wir unsere Kunden in jeder Phase – von der Ideenentwicklung bis zur Umsetzung.",
             "paragraph5": "Wir arbeiten mit einer strategischen Struktur, die die Industrie-, Bau-, Finanz- und Dienstleistungssektoren verbindet. Dieser Ansatz ermöglicht es uns, neue Geschäftskooperationen zu fördern und Synergien zwischen den Branchen zu schaffen.",
             "paragraph6": "Bei Metoox Holding AG arbeiten wir mit unseren Kunden als Partner zusammen. Unser Team besteht aus Finanzexperten, Steuerberatern, Anwälten und Bankfachleuten.",
-            "paragraph7": "Mit diesem umfangreichen Netzwerk von Spezialisten liefern wir die besten Lösungen und setzen Projekte erfolgreich um."
+            "paragraph7": "Mit diesem umfangreichen Netzwerk von Spezialisten liefern wir die besten Lösungen und setzen Projekte erfolgreich um.",
+            "paragraph8": "Metoox hat starke strategische Partnerschaften in Saudi-Arabien und im Fernen Osten aufgebaut. Wir haben Partnerschaften im Nahen Osten, insbesondere in Saudi-Arabien, sowie im Fernen Osten, einschließlich Indonesien und China, etabliert. Unsere Vision ist es, eine aktive Rolle bei der Gestaltung der Zukunft zu spielen, indem wir mit lokalen Partnern zusammenarbeiten, um Teil von Saudi-Arabiens Vision 2030 zu werden. Unser Fokus liegt auf strategischen und projekten mit hohem Einfluss, von Mars-Missionen bis hin zu fortschrittlicher KI-Technologie. Durch die Ausrichtung unserer Expertise auf die Ambitionen unserer Partner streben wir danach, Innovation, Nachhaltigkeit und technologischen Fortschritt in der Region voranzutreiben. Mit einem Engagement für Exzellenz und zukunftsorientierte Lösungen ist Metoox darauf ausgerichtet, langfristige Zusammenarbeiten zu fördern, die zum Wandel und Wachstum dieser dynamischen Märkte beitragen."
           }
         }
       }
