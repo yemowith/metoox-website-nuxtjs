@@ -158,7 +158,7 @@ onMounted(() => {});
             <button
               id="hs-dropdown-floating-dark"
               type="button"
-              class="hs-dropdown-toggle focus:outline-hidden flex w-full items-center text-sm text-white hover:text-neutral-300 focus:text-neutral-300"
+              class="hs-dropdown-toggle focus:outline-hidden text-lighter flex w-full items-center text-sm hover:text-neutral-300 focus:text-neutral-300"
               aria-haspopup="menu"
               aria-expanded="false"
               aria-label="Dropdown"

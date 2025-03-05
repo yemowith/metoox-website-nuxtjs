@@ -32,7 +32,7 @@ useHead({
 // wow js
 </script>
 <template>
-  <div class="bg-primary z">
+  <div class="bg-primary">
     <ThemeHeader />
 
     <main id="content">

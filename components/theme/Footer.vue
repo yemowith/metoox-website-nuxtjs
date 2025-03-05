@@ -8,7 +8,7 @@ onMounted(() => {
 });
 </script>
 <template>
-  <footer class="bg-primary relative overflow-hidden">
+  <footer class="relative overflow-hidden">
     <svg
       class="absolute -bottom-20 start-1/2 w-[1900px] -translate-x-1/2 transform"
       width="2745"
@@ -171,10 +171,8 @@ onMounted(() => {
             </g>
           </svg>
 
-          <div class="ms-5 border-s border-neutral-700 ps-5">
-            <p class="text-sm text-neutral-400">
-              {{ new Date().getFullYear() }} Metoox Holding AG.
-            </p>
+          <div class="border-lighter/40 ms-5 border-s ps-5">
+            <p class="text-lighter/65 text-sm">{{ new Date().getFullYear() }} Metoox Holding AG.</p>
           </div>
         </div>
 

@@ -11,7 +11,7 @@ const { t } = useI18n();
         <h2 class="text-lighter text-2xl font-semibold md:text-4xl md:leading-tight">
           {{ t("home.team.title") }}
         </h2>
-        <p class="text-texter mt-1">
+        <p class="text-lighter/50 mt-1">
           {{ t("home.team.description") }}
         </p>
       </div>

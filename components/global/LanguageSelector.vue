@@ -99,7 +99,7 @@ const getLang = (lang: string) => {
       aria-orientation="vertical"
       aria-labelledby="hs-footer-language-dropdown"
     >
-      <a
+      <NuxtLink
         v-for="locale in availableLocales"
         :key="locale.code"
         @click="switchLocale(locale.code)"
@@ -147,7 +147,7 @@ const getLang = (lang: string) => {
         </svg>
 
         {{ t("locale." + locale.code) }}
-      </a>
+      </NuxtLink>
     </div>
   </div>
   <!-- End Language Dropdown -->

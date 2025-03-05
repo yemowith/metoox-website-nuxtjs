@@ -25,25 +25,25 @@ useHead({
     { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
     { rel: "shortcut icon", href: "/favicon.ico" },
     { rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png" },
+    { rel: "manifest", href: "/site.webmanifest" },
   ],
-  meta: [{ name: "apple-mobile-web-app-title", content: "Han" }],
+  meta: [{ name: "apple-mobile-web-app-title", content: t("site.name") }],
 });
 
 useSeoMeta({
   ogTitle: t("site.name"),
   description: t("site.description"),
   ogDescription: t("site.description"),
-  ogImage: "https://example.com/image.png",
-  twitterCard: "summary_large_image",
+  ogImage: "/media/og/image.jpg",
+  ogUrl: "https://metooxholding.com",
+  twitterTitle: t("site.name"),
+  twitterDescription: t("site.description"),
+  twitterImage: "/media/og/image.jpg",
 });
 </script>
 
 <template>
   <div class="relative">
-    <div
-      v-if="isLoading"
-      class="fixed inset-0 z-50 flex items-center justify-center bg-white transition-opacity duration-300 dark:bg-gray-900"
-    ></div>
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>

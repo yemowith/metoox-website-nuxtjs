@@ -5,14 +5,14 @@ const localePath = useLocalePath();
 </script>
 <template>
   <!-- Contact -->
-  <div class="from-secondary bg-gradient-to-t to-transparent">
+  <div class="from-secondary bg-gradient-to-b to-transparent">
     <div class="mx-auto max-w-5xl px-4 py-10 lg:py-20 xl:px-0">
       <!-- Title -->
       <div class="mb-10 max-w-3xl lg:mb-14">
         <h2 class="text-lighter text-2xl font-semibold md:text-4xl md:leading-tight">
           {{ t("pages.contact.link") }}
         </h2>
-        <p class="text-light mt-1">{{ t("pages.contact.meta.description") }}</p>
+        <p class="text-lighter/50 mt-1">{{ t("pages.contact.meta.description") }}</p>
       </div>
       <!-- End Title -->
 
@@ -33,7 +33,7 @@ const localePath = useLocalePath();
                 />
                 <label
                   for="hs-tac-input-name"
-                  class="pointer-events-none absolute start-0 top-0 h-full truncate border border-transparent p-4 text-sm text-neutral-400 transition duration-100 ease-in-out peer-focus:-translate-y-1.5 peer-focus:text-xs peer-focus:text-neutral-400 peer-disabled:pointer-events-none peer-disabled:opacity-50 peer-[:not(:placeholder-shown)]:-translate-y-1.5 peer-[:not(:placeholder-shown)]:text-xs peer-[:not(:placeholder-shown)]:text-neutral-400"
+                  class="text-lighter/75 peer-focus:text-lighter/75 peer-[:not(:placeholder-shown)]:text-lighter/75 pointer-events-none absolute start-0 top-0 h-full truncate border border-transparent p-4 text-sm transition duration-100 ease-in-out peer-focus:-translate-y-1.5 peer-focus:text-xs peer-disabled:pointer-events-none peer-disabled:opacity-50 peer-[:not(:placeholder-shown)]:-translate-y-1.5 peer-[:not(:placeholder-shown)]:text-xs"
                   >{{ t("pages.contact.content.form.name") }}</label
                 >
               </div>
@@ -49,24 +49,8 @@ const localePath = useLocalePath();
                 />
                 <label
                   for="hs-tac-input-email"
-                  class="pointer-events-none absolute start-0 top-0 h-full truncate border border-transparent p-4 text-sm text-neutral-400 transition duration-100 ease-in-out peer-focus:-translate-y-1.5 peer-focus:text-xs peer-focus:text-neutral-400 peer-disabled:pointer-events-none peer-disabled:opacity-50 peer-[:not(:placeholder-shown)]:-translate-y-1.5 peer-[:not(:placeholder-shown)]:text-xs peer-[:not(:placeholder-shown)]:text-neutral-400"
+                  class="text-lighter/75 peer-focus:text-lighter/75 peer-[:not(:placeholder-shown)]:text-lighter/75 pointer-events-none absolute start-0 top-0 h-full truncate border border-transparent p-4 text-sm transition duration-100 ease-in-out peer-focus:-translate-y-1.5 peer-focus:text-xs peer-disabled:pointer-events-none peer-disabled:opacity-50 peer-[:not(:placeholder-shown)]:-translate-y-1.5 peer-[:not(:placeholder-shown)]:text-xs"
                   >{{ t("pages.contact.content.form.email") }}</label
-                >
-              </div>
-              <!-- End Input -->
-
-              <!-- Input -->
-              <div class="relative">
-                <input
-                  type="text"
-                  id="hs-tac-input-company"
-                  class="text-lighter bg-secondary peer block w-full rounded-lg border-transparent p-4 text-sm placeholder:text-transparent autofill:pb-2 autofill:pt-6 focus:border-transparent focus:pb-2 focus:pt-6 focus:outline-none focus:ring-0 disabled:pointer-events-none disabled:opacity-50 [&:not(:placeholder-shown)]:pb-2 [&:not(:placeholder-shown)]:pt-6"
-                  :placeholder="t('pages.contact.content.form.subject')"
-                />
-                <label
-                  for="hs-tac-input-company"
-                  class="pointer-events-none absolute start-0 top-0 h-full truncate border border-transparent p-4 text-sm text-neutral-400 transition duration-100 ease-in-out peer-focus:-translate-y-1.5 peer-focus:text-xs peer-focus:text-neutral-400 peer-disabled:pointer-events-none peer-disabled:opacity-50 peer-[:not(:placeholder-shown)]:-translate-y-1.5 peer-[:not(:placeholder-shown)]:text-xs peer-[:not(:placeholder-shown)]:text-neutral-400"
-                  >{{ t("pages.contact.content.form.subject") }}</label
                 >
               </div>
               <!-- End Input -->
@@ -81,8 +65,24 @@ const localePath = useLocalePath();
                 />
                 <label
                   for="hs-tac-input-phone"
-                  class="pointer-events-none absolute start-0 top-0 h-full truncate border border-transparent p-4 text-sm text-neutral-400 transition duration-100 ease-in-out peer-focus:-translate-y-1.5 peer-focus:text-xs peer-focus:text-neutral-400 peer-disabled:pointer-events-none peer-disabled:opacity-50 peer-[:not(:placeholder-shown)]:-translate-y-1.5 peer-[:not(:placeholder-shown)]:text-xs peer-[:not(:placeholder-shown)]:text-neutral-400"
+                  class="text-lighter/75 peer-focus:text-lighter/75 peer-[:not(:placeholder-shown)]:text-lighter/75 pointer-events-none absolute start-0 top-0 h-full truncate border border-transparent p-4 text-sm transition duration-100 ease-in-out peer-focus:-translate-y-1.5 peer-focus:text-xs peer-disabled:pointer-events-none peer-disabled:opacity-50 peer-[:not(:placeholder-shown)]:-translate-y-1.5 peer-[:not(:placeholder-shown)]:text-xs"
                   >{{ t("pages.contact.content.form.phone") }}</label
+                >
+              </div>
+              <!-- End Input -->
+
+              <!-- Input -->
+              <div class="relative">
+                <input
+                  type="text"
+                  id="hs-tac-input-company"
+                  class="text-lighter bg-secondary peer block w-full rounded-lg border-transparent p-4 text-sm placeholder:text-transparent autofill:pb-2 autofill:pt-6 focus:border-transparent focus:pb-2 focus:pt-6 focus:outline-none focus:ring-0 disabled:pointer-events-none disabled:opacity-50 [&:not(:placeholder-shown)]:pb-2 [&:not(:placeholder-shown)]:pt-6"
+                  :placeholder="t('pages.contact.content.form.subject')"
+                />
+                <label
+                  for="hs-tac-input-company"
+                  class="text-lighter/75 peer-focus:text-lighter/75 peer-[:not(:placeholder-shown)]:text-lighter/75 pointer-events-none absolute start-0 top-0 h-full truncate border border-transparent p-4 text-sm transition duration-100 ease-in-out peer-focus:-translate-y-1.5 peer-focus:text-xs peer-disabled:pointer-events-none peer-disabled:opacity-50 peer-[:not(:placeholder-shown)]:-translate-y-1.5 peer-[:not(:placeholder-shown)]:text-xs"
+                  >{{ t("pages.contact.content.form.subject") }}</label
                 >
               </div>
               <!-- End Input -->
@@ -96,7 +96,7 @@ const localePath = useLocalePath();
                 ></textarea>
                 <label
                   for="hs-tac-message"
-                  class="pointer-events-none absolute start-0 top-0 h-full truncate border border-transparent p-4 text-sm text-neutral-400 transition duration-100 ease-in-out peer-focus:-translate-y-1.5 peer-focus:text-xs peer-focus:text-neutral-400 peer-disabled:pointer-events-none peer-disabled:opacity-50 peer-[:not(:placeholder-shown)]:-translate-y-1.5 peer-[:not(:placeholder-shown)]:text-xs peer-[:not(:placeholder-shown)]:text-neutral-400"
+                  class="text-lighter/75 peer-focus:text-lighter/75 peer-[:not(:placeholder-shown)]:text-lighter/75 pointer-events-none absolute start-0 top-0 h-full truncate border border-transparent p-4 text-sm transition duration-100 ease-in-out peer-focus:-translate-y-1.5 peer-focus:text-xs peer-disabled:pointer-events-none peer-disabled:opacity-50 peer-[:not(:placeholder-shown)]:-translate-y-1.5 peer-[:not(:placeholder-shown)]:text-xs"
                   >{{ t("pages.contact.content.form.message") }}</label
                 >
               </div>
@@ -111,7 +111,7 @@ const localePath = useLocalePath();
                 >
                   Submit
                   <svg
-                    class="size-4 flex-shrink-0 transition group-hover:translate-x-0 group-hover:translate-x-0.5 group-focus:translate-x-0 group-focus:translate-x-0.5"
+                    class="size-4 flex-shrink-0 transition"
                     xmlns="http://www.w3.org/2000/svg"
                     width="24"
                     height="24"
@@ -153,7 +153,7 @@ const localePath = useLocalePath();
             <div class="grow">
               <h4 class="text-lighter font-semibold">{{ t("pages.contact.content.address") }}:</h4>
 
-              <address class="mt-1 text-sm not-italic text-slate-100">
+              <address class="text-lighter/65 mt-1 text-sm not-italic">
                 Gewerbestrasse 11 <br />
                 CH-6330 Cham
               </address>
@@ -186,7 +186,7 @@ const localePath = useLocalePath();
               </h4>
 
               <a
-                class="mt-1 text-sm text-slate-100"
+                class="text-lighter/65 mt-1 text-sm"
                 href="#mailto:info@metooxholding.com"
                 target="_blank"
               >
@@ -215,7 +215,7 @@ const localePath = useLocalePath();
             </svg>
             <div class="grow">
               <h4 class="text-lighter font-semibold">{{ t("pages.contact.content.we") }}</h4>
-              <p class="mt-1 text-sm text-slate-100">
+              <p class="text-lighter/65 mt-1 text-sm">
                 {{ t("pages.contact.content.we_desc") }}
               </p>
             </div>
@@ -229,3 +229,20 @@ const localePath = useLocalePath();
   </div>
   <!-- End Contact -->
 </template>
+
+<style lang="scss" scoped>
+.bk-logo {
+  .cls-1 {
+    fill: #00a6fb;
+  }
+
+  .cls-2 {
+    isolation: isolate;
+  }
+
+  .cls-2,
+  .cls-3 {
+    fill: #caf0f8;
+  }
+}
+</style>
