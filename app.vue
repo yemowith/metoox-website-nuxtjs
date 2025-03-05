@@ -34,11 +34,11 @@ useSeoMeta({
   ogTitle: t("site.name"),
   description: t("site.description"),
   ogDescription: t("site.description"),
-  ogImage: "/media/og/image.jpg",
+  ogImage: "https://metooxholding.com/media/og/image.jpg",
   ogUrl: "https://metooxholding.com",
   twitterTitle: t("site.name"),
   twitterDescription: t("site.description"),
-  twitterImage: "/media/og/image.jpg",
+  twitterImage: "https://metooxholding.com/media/og/image.jpg",
 });
 </script>
 
