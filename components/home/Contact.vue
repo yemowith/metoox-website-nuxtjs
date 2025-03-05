@@ -187,7 +187,7 @@ const localePath = useLocalePath();
 
               <a
                 class="text-lighter/65 mt-1 text-sm"
-                href="#mailto:info@metooxholding.com"
+                href="mailto:info@metooxholding.com"
                 target="_blank"
               >
                 info@metooxholding.com

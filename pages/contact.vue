@@ -201,7 +201,7 @@ useSeoMeta({
 
               <a
                 class="mt-1 text-sm text-slate-100"
-                href="#mailto:info@metooxholding.com"
+                href="mailto:info@metooxholding.com"
                 target="_blank"
               >
                 info@metooxholding.com
