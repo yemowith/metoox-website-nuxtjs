@@ -141,13 +141,13 @@ onMounted(() => {});
           class="mt-5 flex flex-col gap-x-0 gap-y-4 md:mt-0 md:flex-row md:items-center md:justify-end md:gap-x-7 md:gap-y-0 md:ps-7"
         >
           <NuxtLink
-            class="text-lighter text-sm hover:text-neutral-300 focus:text-neutral-300 focus:outline-none md:py-4"
+            class="text-lighter hover:text-light/85 focus:text-light/50 text-sm focus:outline-none md:py-4"
             :to="localePath('index')"
             aria-current="page"
             >{{ t("pages.index.link") }}</NuxtLink
           >
           <NuxtLink
-            class="text-lighter text-sm hover:text-neutral-300 focus:text-neutral-300 focus:outline-none md:py-4"
+            class="text-lighter hover:text-light/85 focus:text-light/50 text-sm focus:outline-none md:py-4"
             :to="localePath(`/corporate/about`)"
             >{{ t("pages.corporate.link") }}</NuxtLink
           >
@@ -158,7 +158,7 @@ onMounted(() => {});
             <button
               id="hs-dropdown-floating-dark"
               type="button"
-              class="hs-dropdown-toggle focus:outline-hidden text-lighter flex w-full items-center text-sm hover:text-neutral-300 focus:text-neutral-300"
+              class="hs-dropdown-toggle focus:outline-hidden text-lighter hover:text-light/85 focus:text-light/50 flex w-full items-center text-sm"
               aria-haspopup="menu"
               aria-expanded="false"
               aria-label="Dropdown"
@@ -198,7 +198,7 @@ onMounted(() => {});
                   ]"
                   :key="index"
                   :to="localePath(`/sectors/${sector}`)"
-                  class="focus:outline-hidden border-secondary text-lighter hover:text-light flex items-center gap-x-3.5 border-b text-sm focus:text-neutral-300 md:px-3 md:py-2"
+                  class="focus:outline-hidden border-secondary text-lighter hover:text-light focus:text-light/50 flex items-center gap-x-3.5 border-b text-sm md:px-3 md:py-2"
                 >
                   {{ t(`pages.sectors.pages.${sector}.link`) }}
                 </NuxtLink>
@@ -208,7 +208,7 @@ onMounted(() => {});
 
           <div>
             <NuxtLink
-              class="group inline-flex items-center gap-x-2 rounded-full bg-[#00A6FB] px-3 py-2 text-sm font-medium text-neutral-800 focus:outline-none"
+              class="text-primary group inline-flex items-center gap-x-2 rounded-full bg-[#00A6FB] px-3 py-2 text-sm font-medium focus:outline-none"
               :to="localePath(`/contact`)"
             >
               {{ t("pages.contact.link") }}

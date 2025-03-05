@@ -13,7 +13,7 @@ const localePath = useLocalePath();
       class="relative"
     >
       <div
-        class="hs-carousel relative h-[30rem] w-full overflow-hidden rounded-2xl bg-gray-100 dark:bg-neutral-800 md:h-[calc(100vh-106px)]"
+        class="hs-carousel relative h-[30rem] w-full overflow-hidden rounded-2xl bg-gray-100 md:h-[calc(100vh-106px)]"
       >
         <div
           class="hs-carousel-body absolute bottom-0 start-0 top-0 flex flex-nowrap opacity-0 transition-transform duration-700"

@@ -38,9 +38,7 @@ const localePath = useLocalePath();
                   />
                 </div>
                 <div class="absolute bottom-0 end-0 start-0 p-2 sm:p-4">
-                  <div
-                    class="text-lighter bg-secondary rounded-lg p-4 text-sm font-semibold dark:bg-neutral-800 dark:text-neutral-200 md:text-sm"
-                  >
+                  <div class="text-lighter bg-secondary rounded-lg p-4 text-sm font-semibold">
                     {{ t("pages.sectors.pages.real_estate_construction.meta.title") }}
                   </div>
                 </div>
@@ -63,9 +61,7 @@ const localePath = useLocalePath();
                   />
                 </div>
                 <div class="absolute bottom-0 end-0 start-0 p-2 sm:p-4">
-                  <div
-                    class="text-lighter bg-secondary rounded-lg p-4 text-sm font-semibold dark:bg-neutral-800 dark:text-neutral-200 md:text-sm"
-                  >
+                  <div class="text-lighter bg-secondary rounded-lg p-4 text-sm font-semibold">
                     {{ t("pages.sectors.pages.financial_consulting_planning.meta.title") }}
                   </div>
                 </div>
@@ -88,9 +84,7 @@ const localePath = useLocalePath();
                   />
                 </div>
                 <div class="absolute bottom-0 end-0 start-0 p-2 sm:p-4">
-                  <div
-                    class="text-lighter bg-secondary rounded-lg p-4 text-sm font-semibold dark:bg-neutral-800 dark:text-neutral-200 md:text-sm"
-                  >
+                  <div class="text-lighter bg-secondary rounded-lg p-4 text-sm font-semibold">
                     {{ t("pages.sectors.pages.industrial_technology_digitalization.meta.title") }}
                   </div>
                 </div>
@@ -110,9 +104,7 @@ const localePath = useLocalePath();
                   />
                 </div>
                 <div class="absolute bottom-0 end-0 start-0 p-2 sm:p-4">
-                  <div
-                    class="text-lighter bg-secondary rounded-lg p-4 text-sm font-semibold dark:bg-neutral-800 dark:text-neutral-200 md:text-sm"
-                  >
+                  <div class="text-lighter bg-secondary rounded-lg p-4 text-sm font-semibold">
                     {{ t("pages.sectors.pages.finance_investments.meta.title") }}
                   </div>
                 </div>
@@ -135,9 +127,7 @@ const localePath = useLocalePath();
                   />
                 </div>
                 <div class="absolute bottom-0 end-0 start-0 p-2 sm:p-4">
-                  <div
-                    class="bg-secondary text-lighter rounded-lg p-4 text-sm font-semibold dark:bg-neutral-800 dark:text-neutral-200 md:text-sm"
-                  >
+                  <div class="bg-secondary text-lighter rounded-lg p-4 text-sm font-semibold">
                     {{ t("pages.sectors.pages.financial_engineering.meta.title") }}
                   </div>
                 </div>
@@ -160,9 +150,7 @@ const localePath = useLocalePath();
                   />
                 </div>
                 <div class="absolute bottom-0 end-0 start-0 p-2 sm:p-4">
-                  <div
-                    class="text-lighter bg-secondary rounded-lg p-4 text-sm font-semibold dark:bg-neutral-800 dark:text-neutral-200 md:text-sm"
-                  >
+                  <div class="text-lighter bg-secondary rounded-lg p-4 text-sm font-semibold">
                     {{ t("pages.sectors.pages.ma_consulting.meta.title") }}
                   </div>
                 </div>

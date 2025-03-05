@@ -176,7 +176,7 @@ onMounted(() => {
           </div>
         </div>
 
-        <div class="border-secondary mt-5 border-t pt-5 dark:border-neutral-700">
+        <div class="border-secondary mt-5 border-t pt-5">
           <div class="sm:flex sm:items-center sm:justify-between">
             <div class="flex flex-wrap items-center gap-3">
               <LanguageSelector />
@@ -186,7 +186,7 @@ onMounted(() => {
                   v-for="legal in ['terms_condition', 'privacy_policy', 'cookies_policy']"
                   :key="legal"
                   :to="localePath(`/legal/${legal}`)"
-                  class="focus:outline-hidden text-texter/65 inline-flex gap-x-2 hover:text-gray-800 focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200"
+                  class="focus:outline-hidden text-texter/65 inline-flex gap-x-2 hover:text-gray-800 focus:text-gray-800"
                   >{{ t(`pages.legals.pages.${legal}.link`) }}
                 </NuxtLink>
               </div>

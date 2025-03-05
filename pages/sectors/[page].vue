@@ -61,15 +61,13 @@ useSeoMeta({
 
           <!-- Sidebar -->
           <div
-            class="lg:bg-linear-to-r dark:from-neutral-800 lg:col-span-1 lg:h-full lg:w-full lg:from-gray-50 lg:via-transparent lg:to-transparent"
+            class="lg:bg-linear-to-r lg:col-span-1 lg:h-full lg:w-full lg:from-gray-50 lg:via-transparent lg:to-transparent"
           >
             <div class="sticky start-0 top-0 py-8 lg:ps-8">
               <!-- Avatar Media -->
-              <div
-                class="border-secondary group mb-8 flex items-center gap-x-3 border-b pb-4 dark:border-neutral-700"
-              >
+              <div class="border-secondary group mb-8 flex items-center gap-x-3 border-b pb-4">
                 <a class="focus:outline-hidden group block grow" href="">
-                  <p class="text-lighter logo-icon text-base dark:text-neutral-500">
+                  <p class="text-lighter logo-icon text-base">
                     <svg
                       id="Brand_Manual"
                       height="38"
@@ -114,7 +112,7 @@ useSeoMeta({
                 >
                   <div class="grow">
                     <span
-                      class="group-hover:text-light text-lighter translate-x-0 text-sm font-bold group-hover:ml-2 group-focus:text-blue-600 dark:text-neutral-200 dark:group-hover:text-blue-500 dark:group-focus:text-blue-500"
+                      class="group-hover:text-light text-lighter translate-x-0 text-sm font-bold group-hover:ml-2 group-focus:text-blue-600"
                     >
                       <svg
                         xmlns="http://www.w3.org/2000/svg"

@@ -26,19 +26,15 @@ const { t } = useI18n();
             alt="Avatar"
           />
           <div class="mt-2 sm:mt-4">
-            <h3
-              class="text-lighter text-sm font-medium dark:text-neutral-200 sm:text-base lg:text-lg"
-            >
-              Thomas Berg
-            </h3>
-            <p class="text-light mb-2 text-xs dark:text-neutral-400 sm:text-xs lg:text-xs">
+            <h3 class="text-lighter text-sm font-medium sm:text-base lg:text-lg">Thomas Berg</h3>
+            <p class="text-light mb-2 text-xs sm:text-xs lg:text-xs">
               {{ t("home.team.pos") }}
             </p>
 
             <!-- Social Brands -->
             <div class="mt-4 space-x-2.5 sm:mt-auto">
               <a
-                class="focus:outline-hidden text-lighter inline-flex items-center justify-center rounded-full hover:text-gray-800 focus:text-gray-800 dark:text-neutral-500 dark:hover:text-neutral-200 dark:focus:text-neutral-200"
+                class="focus:outline-hidden text-lighter inline-flex items-center justify-center rounded-full hover:text-gray-800 focus:text-gray-800"
                 href="tel:+41782466363"
               >
                 <svg
@@ -60,7 +56,7 @@ const { t } = useI18n();
               </a>
 
               <a
-                class="focus:outline-hidden text-lighter inline-flex items-center justify-center rounded-full hover:text-gray-800 focus:text-gray-800 dark:text-neutral-500 dark:hover:text-neutral-200 dark:focus:text-neutral-200"
+                class="focus:outline-hidden text-lighter inline-flex items-center justify-center rounded-full hover:text-gray-800 focus:text-gray-800"
                 href="mail:berg@metooxholding.com"
               >
                 <svg
@@ -92,19 +88,15 @@ const { t } = useI18n();
             alt="Avatar"
           />
           <div class="mt-2 sm:mt-4">
-            <h3
-              class="text-lighter text-sm font-medium dark:text-neutral-200 sm:text-base lg:text-lg"
-            >
-              Emrah dündar
-            </h3>
-            <p class="text-light mb-2 text-xs dark:text-neutral-400 sm:text-xs lg:text-xs">
+            <h3 class="text-lighter text-sm font-medium sm:text-base lg:text-lg">Emrah dündar</h3>
+            <p class="text-light mb-2 text-xs sm:text-xs lg:text-xs">
               {{ t("home.team.pos") }}
             </p>
 
             <!-- Social Brands -->
             <div class="mt-4 space-x-2.5 sm:mt-auto">
               <a
-                class="focus:outline-hidden text-lighter inline-flex items-center justify-center rounded-full hover:text-gray-800 focus:text-gray-800 dark:text-neutral-500 dark:hover:text-neutral-200 dark:focus:text-neutral-200"
+                class="focus:outline-hidden text-lighter inline-flex items-center justify-center rounded-full hover:text-gray-800 focus:text-gray-800"
                 href="tel:+41783414242"
               >
                 <svg
@@ -126,7 +118,7 @@ const { t } = useI18n();
               </a>
 
               <a
-                class="focus:outline-hidden text-lighter inline-flex items-center justify-center rounded-full hover:text-gray-800 focus:text-gray-800 dark:text-neutral-500 dark:hover:text-neutral-200 dark:focus:text-neutral-200"
+                class="focus:outline-hidden text-lighter inline-flex items-center justify-center rounded-full hover:text-gray-800 focus:text-gray-800"
                 href="mail:edundar@metooxholding.com"
               >
                 <svg
