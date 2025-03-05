@@ -9,13 +9,15 @@ useSeoMeta({
   title: t("pages.index.meta.title"),
   description: t("pages.index.meta.description"),
 });
+
+const steps = [{ id: 1 }, { id: 2 }, { id: 3 }, { id: 4 }];
 </script>
 <template>
-  <div class="body-overlay" id="body-overlay"></div>
+  <HomeSlider />
 
-  <HomeBanner />
+  <HomeSectors />
 
-  <HomeServices />
+  <HomeTeam />
 
-  <HomeAbout />
+  <HomeContact />
 </template>

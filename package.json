@@ -46,6 +46,8 @@
   },
   "dependencies": {
     "animate.css": "^4.1.1",
+    "preline": "^2.7.0",
+    "tailwind-merge": "^3.0.2",
     "wow.js": "^1.2.2",
     "wowjs": "^1.1.3"
   }

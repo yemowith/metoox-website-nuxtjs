@@ -1,25 +1,11 @@
-<script setup>
+<script setup lang="ts">
 const { t } = useI18n();
-const route = useRoute();
+
 const localePath = useLocalePath();
-// Dynamically set the service key based on the route or selection
-
-const baseKey = `pages.contact`;
-
-useHead({
-  title: t(`${baseKey}.meta.title`),
-  meta: [{ name: "description", content: t(`${baseKey}.meta.description`) }],
-  bodyAttrs: { class: "" },
-});
-
-useSeoMeta({
-  title: t(`${baseKey}.meta.title`),
-  description: t(`${baseKey}.meta.description`),
-});
 </script>
-
 <template>
-  <section class="from-secondary bg-gradient-to-t to-transparent sm:py-12 md:py-20 lg:py-24">
+  <!-- Contact -->
+  <div class="from-secondary bg-gradient-to-t to-transparent">
     <div class="mx-auto max-w-5xl px-4 py-10 lg:py-20 xl:px-0">
       <!-- Title -->
       <div class="mb-10 max-w-3xl lg:mb-14">
@@ -240,5 +226,6 @@ useSeoMeta({
       </div>
       <!-- End Grid -->
     </div>
-  </section>
+  </div>
+  <!-- End Contact -->
 </template>

@@ -1,8 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 import { defineNuxtConfig } from 'nuxt/config'
-import tr from './i18n/locales/tr-TR.json'
-import en from './i18n/locales/en-US.json'
-import ar from './i18n/locales/ar-AR.json'
 
 export default defineNuxtConfig({
   devtools: { enabled: true },
@@ -17,6 +14,8 @@ export default defineNuxtConfig({
     compressPublicAssets: true,
     logLevel: 4,
   },
+
+  plugins: ['~/plugins/preline.client.ts'],
 
   modules: [
     '@nuxt/eslint',
@@ -38,7 +37,7 @@ export default defineNuxtConfig({
     viewer: true,
   },
 
-  css: ['~/assets/scss/app.scss'],
+  css: [],
 
   postcss: {
     plugins: {
@@ -88,19 +87,13 @@ export default defineNuxtConfig({
         isCatchallLocale: true,
       },
       {
-        code: 'tr',
-        iso: 'tr-TR',
-        file: 'tr-TR.json',
-      },
-      {
-        code: 'ar',
-        iso: 'ar-AR',
-        file: 'ar-AR.json',
+        code: 'de',
+        iso: 'de-DE',
+        file: 'de-DE.json',
       },
     ],
     strategy: 'prefix_except_default',
     defaultLocale: 'en',
-
     lazy: true,
     detectBrowserLanguage: {
       useCookie: true,

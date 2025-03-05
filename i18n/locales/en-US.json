@@ -1,11 +1,10 @@
 {
   "locale.en": "English",
-  "locale.tr": "Turkish",
-  "locale.ar": "Arabic",
+  "locale.de": "German",
   "locale.dir": "ltr",
   "site": {
-    "name": "Han Holding",
-    "description": "Han Holding: The Guarantee of Trade and Industry."
+    "name": "Metoox",
+    "description": "Metoox: The Guarantee of Trade and Industry."
   },
   "themes": {
     "system": "System",
@@ -16,42 +15,43 @@
     "follow": "Follow Us"
   },
   "home": {
-    "subtitle": "Shaping the Future",
-    "title1": "Taking Your",
-    "title2": "Business Growth & Revenue",
-    "title3": "to the",
-    "title4": "Next Level",
-    "text": "At Han Holding, we lead sustainable growth with innovative solutions in construction, logistics, defense industry, energy, and more.",
-    "button": "Learn More",
-    "video": "Get to Know Us",
-    "partners": "Our partners",
-    "services": "Our Services",
-    "slogan": "Shaping the Future with  Innovative Solutions",
-
-    "about": {
-      "subtitle": "ABOUT US",
-      "title": "Advancing Beyond Your Expectations",
-      "description": "At Han Holding, we are committed to delivering innovative solutions that exceed your expectations. Our expertise spans across multiple industries, ensuring excellence in every project we undertake.",
-      "list_item_1": "Innovative and sustainable solutions",
-      "list_item_2": "Expertise across multiple industries",
-      "list_item_3": "Customer-focused approach",
-      "list_item_4": "Global reach with local expertise",
-      "additional_description": "We prioritize security, efficiency, and sustainability in all our operations. Partner with us to experience unparalleled service and results.",
-      "button_text": "Discover More"
+    "slogan": "Metoox Holding AG – Vision. Strategy. Success.",
+    "welcone": "Welcome to",
+    "read": "Know More About Us",
+    "sectores": "Sector Focus",
+    "sectores_desc": "Leading businesses achieve measurable success through our expertise. From optimized investment strategies and seamless financial solutions to cutting-edge industrial advancements, we drive growth and efficiency. Discover how we make a difference.",
+    "team": {
+      "title": "Metoox Team",
+      "pos": "Founding partner",
+      "description": "Our team of experts is dedicated to delivering the highest quality of service to our clients. We are committed to providing innovative solutions that drive growth and success. Meet the team that makes it all possible."
+    },
+    "approach": {
+      "title": "Our Approach",
+      "description": "Our expertise spans across multiple industries, delivering innovative solutions in real estate, finance, and technology. We combine strategic insight with cutting-edge methodologies to drive success.",
+      "steps": "Steps",
+      "step1": {
+        "title": "Market & Investment Research",
+        "description": "Comprehensive analysis of market trends, financial opportunities, and investment landscapes."
+      },
+      "step2": {
+        "title": "Project Development & Structuring",
+        "description": "From concept to execution, we design financial and technological frameworks for sustainable growth."
+      },
+      "step3": {
+        "title": "Strategic Partnership & Funding",
+        "description": "Connecting with investors, institutions, and private equity firms to secure capital and resources."
+      },
+      "step4": {
+        "title": "Execution & Expansion",
+        "description": "Deploying projects with operational efficiency while optimizing risk and scalability."
+      },
+      "cta": {
+        "text": "Schedule a Consultation"
+      }
     }
   },
   "global": {
-    "needHelp": "Need help?",
-    "slogan": "Han Holding: The Guarantee of Trade and Industry.",
-    "business_sectors": "Business Sectors",
-    "copyright": " All Rights Reserved",
-    "newsletter": "Subscribe To Our Newsletter",
-    "newsletter_placeholder": "Enter your email address",
-    "newsletter_button": "Subscribe",
-    "newsletter_success": "You have successfully subscribed to our newsletter.",
-    "newsletter_error": "An error occurred while subscribing to our newsletter.",
-    "read_more": "Read more",
-    "no_data": "There are no data"
+    "no_data": "No data available"
   },
   "pages": {
     "index": {
@@ -74,228 +74,129 @@
             "description": "About"
           },
           "link": "About",
-          "content": {
-            "subtitle": "ABOUT US",
-            "title": "Han Holding: Driving Innovation and Global Development",
-            "description": "Han Holding is a globally recognized investment and business conglomerate, specializing in diverse industries including construction, logistics, defense, energy, tourism, mining, agriculture, food, chemistry, and international trade. Our expertise drives economic growth, fosters innovation, and ensures sustainable progress worldwide.",
-            "commitment_title": "Commitment to Excellence",
-            "commitment_description": "Han Holding prioritizes quality, innovation, and sustainability in all projects. Our approach ensures high standards in engineering, logistics, and economic development.",
-            "global_title": "Global Influence",
-            "global_description": "With operations across multiple continents, we leverage cutting-edge technology and strategic investments to create lasting economic impact in every industry we serve."
-          }
-        },
-        "vision-mission": {
-          "meta": {
-            "title": "Vision & Mission",
-            "description": "Vision & Mission"
+          "hero": {
+            "title": "Building Stronger Financial Futures",
+            "description": "We specialize in project financing, investment solutions, and strategic growth consulting.",
+            "button": "Learn More"
           },
-          "link": "Vision & Mission",
-          "content": {
-            "subtitle": "Our Vision & Mission",
-            "title": "Building a Sustainable Future with Innovation",
-            "description": "At Han Holding, we are committed to shaping a future driven by innovation, sustainability, and excellence. Our vision is to become a globally recognized leader in multiple industries by integrating cutting-edge technology and sustainable practices into our core business operations.",
-            "commitment_title": "Commitment to Excellence",
-            "commitment_description": "We uphold the highest standards in every sector we operate in, ensuring quality, transparency, and long-term value for our stakeholders.",
-            "global_title": "Global Expansion & Leadership",
-            "global_description": "With a strong presence in multiple industries, we aim to expand our influence globally, creating innovative solutions that drive economic growth and sustainability."
+          "section": {
+            "title": "About Metoox Holding",
+            "paragraph1": "As Metoox Holding AG, we provide comprehensive consulting services to businesses. We help our clients navigate crises by identifying effective solutions tailored to their projects. Our expertise is particularly strong in project financing.",
+            "paragraph2": "Thanks to our extensive network in capital markets, we can secure funding for investment projects quickly and efficiently. Additionally, we actively support mergers and acquisitions (M&A) processes. Customer satisfaction is our top priority.",
+            "paragraph3": "We guide our clients not only during the approval phase of their investment plans but also throughout the entire investment process until completion. Leveraging our vast business network, we provide support in industrial equipment, robotic systems, construction machinery, and digitalization solutions.",
+            "paragraph4": "Furthermore, we offer consulting services in compliance, data protection (Datenschutz), and anti-money laundering (AML). By integrating various areas of expertise within our company, we assist our clients at every stage—from idea development to implementation.",
+            "paragraph5": "We operate with a strategic structure that connects the industrial, construction, finance, and service sectors. This approach enables us to foster new business collaborations and create synergies across industries.",
+            "paragraph6": "At Metoox Holding AG, we work with our clients as partners. Our team consists of finance experts, tax advisors, lawyers, and banking professionals.",
+            "paragraph7": "With this extensive network of specialists, we deliver the best solutions and successfully bring projects to life."
           }
         }
       }
     },
-    "services": {
+
+    "sectors": {
       "meta": {
-        "title": "Service",
-        "description": "Service"
+        "title": "Sectors",
+        "description": "Sectors"
       },
-      "link": "Services",
+      "link": "Sectors",
       "pages": {
-        "construction": {
+        "real_estate_construction": {
           "meta": {
-            "title": "Construction",
-            "description": "Han Holding delivers innovative and sustainable construction projects, shaping the cities of tomorrow with modern infrastructure and eco-friendly designs."
+            "title": "Real Estate & Construction",
+            "description": "Residential and commercial real estate investments, project feasibility analyses, and international funding access."
           },
-          "link": "Construction",
+          "link": "Real Estate & Construction",
           "content": {
-            "subtitle": "OUR EXPERTISE",
-            "title": "Building the Future with Innovation and Sustainability",
-            "description": "At Han Holding, we are redefining the construction industry by delivering state-of-the-art infrastructure projects that combine cutting-edge technology with sustainable practices. Our commitment to quality and innovation ensures that every project we undertake stands as a testament to excellence.",
-            "quality_title": "Uncompromising Quality",
-            "quality_description": "We adhere to the highest standards of construction, ensuring that every structure we build is safe, durable, and built to last. Our team of experts meticulously oversees every phase of the project, from planning to execution.",
-            "sustainability_title": "Sustainable Construction",
-            "sustainability_description": "Sustainability is at the core of our construction philosophy. We utilize eco-friendly materials and energy-efficient technologies to minimize environmental impact while maximizing long-term value for our clients."
+            "title": "Real Estate & Construction",
+            "paragraph1": "Metoox Holding specializes in real estate investments and construction projects across Germany, Austria, and Switzerland. We offer tailored solutions for both residential and commercial properties, ensuring maximum returns on your investments.",
+            "paragraph2": "Our services include comprehensive feasibility analyses for new projects, helping you make informed decisions. We also provide access to national and international funding sources, ensuring your projects are financially viable.",
+            "paragraph3": "Whether you're looking to invest in a new development or sell an existing property, our team of experts offers advisory services to guide you through every step of the process.",
+            "paragraph4": "We focus on sustainable and innovative construction practices, ensuring that your projects are not only profitable but also environmentally friendly.",
+            "paragraph5": "Partner with us to unlock the full potential of your real estate investments."
           }
         },
-        "logistics": {
+        "financial_consulting_planning": {
           "meta": {
-            "title": "Logistics",
-            "description": "Han Holding provides fast, reliable, and integrated logistics solutions, optimizing supply chains for businesses worldwide."
+            "title": "Financial Consulting & Planning",
+            "description": "Investment optimization, personal and corporate financial planning, estate management, and trust services."
           },
-          "link": "Logistics",
+          "link": "Financial Consulting & Planning",
           "content": {
-            "subtitle": "OUR SERVICES",
-            "title": "Delivering Excellence in Logistics Solutions",
-            "description": "At Han Holding, we provide fast, reliable, and integrated logistics solutions tailored to meet the needs of businesses worldwide. Our advanced technology and efficient processes ensure seamless supply chain management.",
-            "efficiency_title": "Operational Efficiency",
-            "efficiency_description": "We optimize every step of the logistics process to ensure timely delivery and cost-effective solutions. Our team is dedicated to maximizing efficiency and minimizing delays.",
-            "technology_title": "Advanced Technology",
-            "technology_description": "We leverage cutting-edge technology to track, manage, and streamline logistics operations. Our systems provide real-time visibility and control over your supply chain."
+            "title": "Financial Consulting & Planning",
+            "paragraph1": "At Metoox Holding, we provide expert financial consulting services to help you optimize your investments and achieve your financial goals. Our team works closely with you to develop personalized strategies for both personal and corporate financial planning.",
+            "paragraph2": "We offer comprehensive estate management services, ensuring that your assets are protected and managed efficiently. Our trust management solutions provide maximum flexibility and security for your wealth.",
+            "paragraph3": "Our financial planning services include retirement planning, tax optimization, and inheritance planning, ensuring that your financial future is secure.",
+            "paragraph4": "We also assist businesses in developing long-term financial strategies, helping them navigate complex financial landscapes and achieve sustainable growth.",
+            "paragraph5": "Let us help you take control of your financial future with our tailored consulting and planning services."
           }
         },
-        "defense_industry": {
+        "industrial_technology_digitalization": {
           "meta": {
-            "title": "Defense Industry",
-            "description": "Han Holding develops cutting-edge defense technologies, contributing to national security and global defense capabilities."
+            "title": "Industrial Technology & Digitalization",
+            "description": "Digital transformation of production and logistics, optimization solutions, and high-tech industrial systems."
           },
-          "link": "Defense Industry",
+          "link": "Industrial Technology & Digitalization",
           "content": {
-            "subtitle": "OUR EXPERTISE",
-            "title": "Innovating for a Safer Future",
-            "description": "At Han Holding, we are committed to advancing defense technologies that ensure national and global security. Our cutting-edge solutions and strategic partnerships drive innovation in the defense industry.",
-            "innovation_title": "Technological Innovation",
-            "innovation_description": "We invest in research and development to create state-of-the-art defense systems. Our focus is on delivering reliable and advanced solutions that meet the evolving needs of modern warfare.",
-            "security_title": "Enhanced Security",
-            "security_description": "Our defense solutions prioritize safety and security, providing robust protection against emerging threats. We work closely with governments and organizations to safeguard communities worldwide."
+            "title": "Industrial Technology & Digitalization",
+            "paragraph1": "Metoox Holding is at the forefront of industrial technology and digitalization. We help businesses transform their production and logistics processes through cutting-edge digital solutions.",
+            "paragraph2": "Our services include the integration of advanced technologies such as IoT, AI, and machine learning to optimize workflows and reduce operational costs.",
+            "paragraph3": "We partner with high-tech German and Swiss companies to provide customized solutions tailored to your specific needs. Whether you're looking to automate your production line or streamline your supply chain, we have the expertise to make it happen.",
+            "paragraph4": "Our goal is to help businesses stay competitive in a rapidly evolving industrial landscape by leveraging the latest technological advancements.",
+            "paragraph5": "Transform your business with our innovative digitalization solutions."
           }
         },
-        "energy": {
+        "finance_investments": {
           "meta": {
-            "title": "Energy",
-            "description": "Han Holding focuses on renewable energy sources, driving sustainable energy solutions for a greener future."
+            "title": "Finance & Investments",
+            "description": "Real estate investments, project financing, asset-backed lending, capital markets, and private equity funding."
           },
-          "link": "Energy",
+          "link": "Finance & Investments",
           "content": {
-            "subtitle": "OUR FOCUS",
-            "title": "Powering the Future with Sustainable Energy",
-            "description": "At Han Holding, we are dedicated to developing innovative energy solutions that promote sustainability and reduce environmental impact. Our projects in renewable energy and energy efficiency are shaping a greener future.",
-            "renewable_title": "Renewable Energy",
-            "renewable_description": "We invest in solar, wind, and hydroelectric power projects to harness clean and renewable energy sources. Our goal is to reduce dependency on fossil fuels and combat climate change.",
-            "efficiency_title": "Energy Efficiency",
-            "efficiency_description": "We design and implement energy-efficient systems that minimize waste and maximize output. Our solutions help businesses and communities reduce their energy consumption and costs."
+            "title": "Finance & Investments",
+            "paragraph1": "Metoox Holding offers a wide range of financial services to help you achieve your investment goals. Our expertise spans real estate investments, project financing, and asset-backed lending.",
+            "paragraph2": "We provide access to capital markets, assisting with stock and bond issuances to raise funds for your projects. Our private equity solutions offer new investment opportunities for businesses looking to expand.",
+            "paragraph3": "Our team of financial experts works closely with you to develop tailored investment strategies, ensuring that your portfolio is optimized for maximum returns.",
+            "paragraph4": "Whether you're a start-up looking for funding or an established business seeking to diversify your investments, we have the solutions to meet your needs.",
+            "paragraph5": "Partner with us to unlock new opportunities in the world of finance and investments."
           }
         },
-        "tourism": {
+        "financial_engineering": {
           "meta": {
-            "title": "Tourism",
-            "description": "Han Holding offers luxurious hotels and resorts, creating unforgettable experiences for travelers while promoting cultural and natural heritage."
+            "title": "Financial Engineering",
+            "description": "Export and trade finance, structured financial solutions, SBLC, bonds, and liquidity optimization."
           },
-          "link": "Tourism",
+          "link": "Financial Engineering",
           "content": {
-            "subtitle": "OUR VISION",
-            "title": "Creating Unforgettable Travel Experiences",
-            "description": "At Han Holding, we are dedicated to offering exceptional travel experiences that combine luxury, comfort, and cultural richness. Our hotels, resorts, and tourism projects are designed to provide guests with unforgettable memories.",
-            "luxury_title": "Luxury Accommodations",
-            "luxury_description": "We provide world-class luxury accommodations that cater to the needs of discerning travelers. Our properties are designed to offer the ultimate in comfort and elegance.",
-            "culture_title": "Cultural Tourism",
-            "culture_description": "We promote cultural tourism by showcasing the unique heritage and traditions of the regions we operate in. Our projects aim to preserve and celebrate local cultures while offering enriching experiences to visitors."
+            "title": "Financial Engineering",
+            "paragraph1": "Metoox Holding specializes in financial engineering, offering structured financing solutions for export and trade finance. We help businesses secure funding through instruments such as SBLCs and bonds.",
+            "paragraph2": "Our team of experts designs customized financial solutions to meet your specific needs, ensuring that your projects are financially viable and sustainable.",
+            "paragraph3": "We focus on liquidity optimization, helping businesses manage their cash flow effectively and reduce financial risks.",
+            "paragraph4": "Our services are designed to support businesses in both national and international markets, providing them with the resources they need to thrive.",
+            "paragraph5": "Let us help you navigate the complexities of financial engineering with our innovative solutions."
           }
         },
-        "mining": {
+        "ma_consulting": {
           "meta": {
-            "title": "Mining",
-            "description": "Han Holding utilizes efficient and environmentally responsible mining practices to extract and process natural resources."
+            "title": "Mergers & Acquisitions (M&A) Consulting",
+            "description": "Company mergers, acquisitions, corporate expansion strategies, and business valuation."
           },
-          "link": "Mining",
+          "link": "Mergers & Acquisitions (M&A) Consulting",
           "content": {
-            "subtitle": "OUR APPROACH",
-            "title": "Responsible and Innovative Mining Solutions",
-            "description": "At Han Holding, we are committed to sustainable and responsible mining practices. Our projects focus on extracting natural resources efficiently while minimizing environmental impact and ensuring the safety of our workforce.",
-            "responsible_title": "Responsible Mining",
-            "responsible_description": "We prioritize environmental protection and community well-being in all our mining operations. Our practices are designed to ensure long-term sustainability and positive social impact.",
-            "technology_title": "Advanced Technology",
-            "technology_description": "We leverage cutting-edge technology to optimize mining processes, improve safety, and reduce environmental footprint. Our innovative solutions set new standards in the mining industry."
-          }
-        },
-        "food_agriculture_and_animal_husbandry": {
-          "meta": {
-            "title": "Food, Agriculture and Animal Husbandry",
-            "description": "Han Holding ensures high-quality and healthy food production through modern agriculture and sustainable farming practices."
-          },
-          "link": "Food and Animal Husbandry",
-          "content": {
-            "subtitle": "OUR MISSION",
-            "title": "Sustainable Solutions for Food, Agriculture, and Livestock",
-            "description": "At Han Holding, we are dedicated to advancing sustainable practices in food production, agriculture, and livestock management. Our initiatives ensure food security, promote environmental sustainability, and support rural communities.",
-            "agriculture_title": "Modern Agriculture",
-            "agriculture_description": "We implement innovative agricultural techniques to increase productivity and ensure the quality of crops. Our focus is on sustainable farming practices that protect the environment and support farmers.",
-            "livestock_title": "Livestock Management",
-            "livestock_description": "We prioritize animal welfare and efficient livestock management to produce high-quality, healthy food products. Our practices ensure the well-being of animals and the sustainability of the livestock industry."
-          }
-        },
-        "chemistry": {
-          "meta": {
-            "title": "Chemistry",
-            "description": "Han Holding innovates in the chemical industry, delivering advanced solutions for pharmaceuticals, cosmetics, and industrial applications."
-          },
-          "link": "Chemistry",
-          "content": {
-            "subtitle": "OUR FOCUS",
-            "title": "Innovating for a Sustainable Future in Chemistry",
-            "description": "At Han Holding, we are committed to developing advanced chemical solutions that drive innovation and sustainability. Our products and technologies are designed to meet the evolving needs of industries while minimizing environmental impact.",
-            "innovation_title": "Chemical Innovation",
-            "innovation_description": "We invest in research and development to create cutting-edge chemical products that enhance industrial processes and improve quality of life. Our focus is on delivering solutions that are both effective and environmentally friendly.",
-            "sustainability_title": "Sustainable Practices",
-            "sustainability_description": "We prioritize sustainability in all our chemical processes, from production to disposal. Our goal is to reduce waste, conserve resources, and promote eco-friendly practices across the industry."
-          }
-        },
-        "national_international_trade": {
-          "meta": {
-            "title": "National/International Trade",
-            "description": "Han Holding strengthens global trade networks, fostering economic growth through strategic partnerships and innovative trade models."
-          },
-          "link": "National/International Trade",
-          "content": {
-            "subtitle": "OUR VISION",
-            "title": "Driving Growth Through Global Trade",
-            "description": "At Han Holding, we are dedicated to fostering economic growth by facilitating national and international trade. Our strategic partnerships and innovative trade solutions connect markets, create opportunities, and drive sustainable development.",
-            "global_title": "Global Trade Networks",
-            "global_description": "We leverage our extensive global network to connect businesses and markets worldwide. Our expertise in logistics, customs, and trade regulations ensures seamless cross-border transactions.",
-            "strategy_title": "Strategic Trade Solutions",
-            "strategy_description": "We provide tailored trade solutions that help businesses expand their reach and optimize their operations. Our focus is on creating value for our partners through innovative and efficient trade practices."
+            "title": "Mergers & Acquisitions (M&A) Consulting",
+            "paragraph1": "Metoox Holding provides expert advisory services for mergers and acquisitions. We assist businesses in navigating complex M&A processes, ensuring successful outcomes.",
+            "paragraph2": "Our services include company valuations, corporate growth strategies, and sales process management. We work closely with you to develop tailored solutions that align with your business goals.",
+            "paragraph3": "Whether you're looking to acquire a new business or merge with another entity, our team of experts provides strategic guidance every step of the way.",
+            "paragraph4": "We also assist in post-merger integration, ensuring a smooth transition and maximizing the value of your investment.",
+            "paragraph5": "Partner with us to achieve your corporate growth objectives through strategic mergers and acquisitions."
           }
         }
       }
     },
-    "media": {
-      "meta": {
-        "title": "Media",
-        "description": "Media"
-      },
-      "link": "Media",
-      "pages": {
-        "in_press": {
-          "meta": {
-            "title": "We in the press",
-            "description": "We in the press"
-          },
-          "link": "We in the press"
-        },
-        "news": {
-          "meta": {
-            "title": "News",
-            "description": "News"
-          },
-          "link": "News"
-        },
-        "events": {
-          "meta": {
-            "title": "Events",
-            "description": "Events"
-          },
-          "link": "Events"
-        },
-        "gallery": {
-          "meta": {
-            "title": "Gallery",
-            "description": "Gallery"
-          },
-          "link": "Gallery"
-        }
-      }
-    },
+
     "contact": {
       "meta": {
         "title": "Contact us",
-        "description": "Contact us"
+        "description": "Whatever your goal - we will get you there."
       },
       "link": "Contact us",
       "content": {
@@ -304,9 +205,12 @@
         "address": "Address",
         "phone": "Phone",
         "email": "Email",
+        "we": "We're hiring",
+        "we_desc": " We're thrilled to announce that we're expanding our team and looking for talented individuals like you to join us.",
         "form": {
           "name": "Name",
           "email": "Email",
+          "phone": "Phone",
           "subject": "Subject",
           "message": "Message",
           "button": "Send Message",

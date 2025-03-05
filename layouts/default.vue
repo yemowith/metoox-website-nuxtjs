@@ -32,8 +32,14 @@ useHead({
 // wow js
 </script>
 <template>
-  <ThemeHeader />
-  <slot />
-  <ThemeFooter />
+  <div class="bg-primary z">
+    <ThemeHeader />
+
+    <main id="content">
+      <slot></slot>
+    </main>
+
+    <ThemeFooter />
+  </div>
 </template>
 <style lang="postcss"></style>

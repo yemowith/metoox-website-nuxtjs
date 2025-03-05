@@ -1,7 +1,6 @@
 {
-  "locale.en": "İngilizce",
-  "locale.tr": "Türkçe",
-  "locale.ar": "Arapça",
+  "locale.en": "English",
+  "locale.de": "Deutsch",
   "locale.dir": "ltr",
   "site": {
     "name": "Han Holding",
@@ -16,29 +15,7 @@
     "follow": "Bizi Takip Edin"
   },
   "home": {
-    "subtitle": "Geleceği Şekillendirme",
-    "title1": "İşinizi",
-    "title2": "Büyüme ve Gelirinizi",
-    "title3": "Bir Sonraki Seviyeye",
-    "title4": "Taşıma",
-    "text": "Han Holding olarak, inşaat, lojistik, savunma sanayi, enerji ve daha fazlasında yenilikçi çözümlerle sürdürülebilir büyümeyi öncülüyoruz.",
-    "button": "Daha Fazla Bilgi Al",
-    "video": "Bizi Tanıyın",
-    "partners": "Ortaklarımız",
-    "services": "Hizmetlerimiz",
-    "slogan": "Yenilikçi Çözümlerle Geleceği Şekillendirme",
-
-    "about": {
-      "subtitle": "HAKKIMIZDA",
-      "title": "Beklentilerinizin Ötesine Geçme",
-      "description": "Han Holding olarak, beklentilerinizi aşan yenilikçi çözümler sunmaya kararlıyız. Uzmanlığımız, inşaat, lojistik, savunma sanayi, enerji ve daha fazlasında, üstün kalitede hizmet sunmamızı sağlıyor.",
-      "list_item_1": "Yenilikçi ve sürdürülebilir çözümler",
-      "list_item_2": "Çoklu sektörde uzmanlık",
-      "list_item_3": "Müşteri odaklı yaklaşım",
-      "list_item_4": "Yerel uzmanlıkla küresel erişim",
-      "additional_description": "Tüm operasyonlarımızda güvenliği, verimliliği ve sürdürülebilirliği önceliklendiriyoruz. Bizimle ortaklık kurun, eşsiz hizmet ve sonuçlarla tanışın.",
-      "button_text": "Daha Fazlasını Keşfedin"
-    }
+    "slogan": "Metoox Holding AG – Vision. Strategie. Erfolg."
   },
   "global": {
     "needHelp": "Yardıma mı ihtiyacınız var?",
