@@ -181,7 +181,7 @@ onMounted(() => {});
               aria-orientation="vertical"
               aria-labelledby="hs-dropdown-floating-dark"
             >
-              <div class="mt-3 flex flex-col gap-y-3 md:mt-0 md:gap-y-0 md:px-1 md:py-1">
+              <div class="mt-3 flex flex-col gap-y-3 md:mt-0 md:gap-y-0">
                 <NuxtLink
                   v-for="(corporate, index) in ['about', 'middel_east']"
                   :key="index"
