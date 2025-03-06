@@ -44,7 +44,6 @@ const partners = [
         <p>{{ t("pages.corporate.pages.about.section.paragraph5") }}</p>
         <p>{{ t("pages.corporate.pages.about.section.paragraph6") }}</p>
         <p>{{ t("pages.corporate.pages.about.section.paragraph7") }}</p>
-        <p>{{ t("pages.corporate.pages.about.section.paragraph8") }}</p>
       </div>
 
       <div class="text-lighter mt-16 space-y-6 text-base">

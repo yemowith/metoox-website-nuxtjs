@@ -146,11 +146,53 @@ onMounted(() => {});
             aria-current="page"
             >{{ t("pages.index.link") }}</NuxtLink
           >
-          <NuxtLink
-            class="text-lighter hover:text-light/85 focus:text-light/50 text-sm focus:outline-none md:py-4"
-            :to="localePath(`/corporate/about`)"
-            >{{ t("pages.corporate.link") }}</NuxtLink
+
+          <div
+            class="hs-dropdown pe-3 ps-px [--adaptive:none] [--is-collapse:true] [--strategy:static] sm:px-3 md:py-4 md:[--is-collapse:false] md:[--strategy:fixed]"
           >
+            <button
+              id="hs-dropdown-floating-dark"
+              type="button"
+              class="hs-dropdown-toggle focus:outline-hidden text-lighter hover:text-light/85 focus:text-light/50 flex w-full items-center text-sm"
+              aria-haspopup="menu"
+              aria-expanded="false"
+              aria-label="Dropdown"
+            >
+              {{ t("pages.corporate.link") }}
+              <svg
+                class="ms-auto size-4 shrink-0 duration-300 hs-dropdown-open:-rotate-180 md:ms-1 md:hs-dropdown-open:rotate-0"
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <path d="m6 9 6 6 6-6" />
+              </svg>
+            </button>
+
+            <div
+              class="hs-dropdown-menu md:bg-primary top-full z-10 hidden rounded-lg opacity-0 transition-[opacity,margin] duration-[0.1ms] before:absolute before:-top-5 before:start-0 before:h-5 before:w-full hs-dropdown-open:opacity-100 md:w-64 md:shadow-md md:duration-[150ms]"
+              role="menu"
+              aria-orientation="vertical"
+              aria-labelledby="hs-dropdown-floating-dark"
+            >
+              <div class="mt-3 flex flex-col gap-y-3 md:mt-0 md:gap-y-0 md:px-1 md:py-1">
+                <NuxtLink
+                  v-for="(corporate, index) in ['about', 'middel_east']"
+                  :key="index"
+                  :to="localePath(`/corporate/${corporate}`)"
+                  class="focus:outline-hidden border-secondary text-lighter hover:text-light focus:text-light/50 flex items-center gap-x-3.5 border-b text-sm md:px-3 md:py-2"
+                >
+                  {{ t(`pages.corporate.pages.${corporate}.link`) }}
+                </NuxtLink>
+              </div>
+            </div>
+          </div>
 
           <div
             class="hs-dropdown pe-3 ps-px [--adaptive:none] [--is-collapse:true] [--strategy:static] sm:px-3 md:py-4 md:[--is-collapse:false] md:[--strategy:fixed]"
