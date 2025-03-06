@@ -17,7 +17,7 @@ useSeoMeta({
   <!-- About Us Section -->
   <section class="from-secondary bg-gradient-to-t to-transparent py-28">
     <div class="z-20 mx-auto max-w-5xl px-4 lg:px-0">
-      <h2 class="text-lighter mb-8 text-center text-4xl font-semibold">
+      <h2 class="text-lighter mb-6 text-center text-4xl font-semibold">
         {{ t("pages.corporate.pages.middel_east.meta.title") }}
       </h2>
 
