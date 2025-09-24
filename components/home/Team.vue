@@ -23,7 +23,7 @@ const { t } = useI18n();
           <img
             class="mx-auto rounded-xl grayscale sm:size-48 lg:size-60"
             src="/media/team/thomas.jpg"
-            alt="Thomas Berg"
+            alt="Thomas BERG"
           />
           <div class="mt-2 sm:mt-4">
             <h3 class="text-sm font-medium text-lighter sm:text-base lg:text-lg">Thomas Berg</h3>
@@ -85,7 +85,7 @@ const { t } = useI18n();
           <img
             class="mx-auto rounded-xl grayscale sm:size-48 lg:size-60"
             src="/media/team/edundar.jpg"
-            alt="Emrah dündar"
+            alt="Emrah DUNDAR"
           />
           <div class="mt-2 sm:mt-4">
             <h3 class="text-sm font-medium text-lighter sm:text-base lg:text-lg">Emrah dündar</h3>
@@ -141,9 +141,6 @@ const { t } = useI18n();
             <!-- End Social Brands -->
           </div>
         </div>
-        <!-- End Col -->
-
-        <!-- End Col -->
       </div>
       <!-- End Grid -->
     </div>
