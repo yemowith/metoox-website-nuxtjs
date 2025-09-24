@@ -26,7 +26,7 @@ const { t } = useI18n();
             alt="Thomas BERG"
           />
           <div class="mt-2 sm:mt-4">
-            <h3 class="text-sm font-medium text-lighter sm:text-base lg:text-lg">Thomas Berg</h3>
+            <h3 class="text-sm font-medium text-lighter sm:text-base lg:text-lg">Thomas BERG</h3>
             <p class="mb-2 text-xs text-light sm:text-xs lg:text-xs">
               {{ t("home.team.pos") }}
             </p>
@@ -88,7 +88,7 @@ const { t } = useI18n();
             alt="Emrah DUNDAR"
           />
           <div class="mt-2 sm:mt-4">
-            <h3 class="text-sm font-medium text-lighter sm:text-base lg:text-lg">Emrah dündar</h3>
+            <h3 class="text-sm font-medium text-lighter sm:text-base lg:text-lg">Emrah DUNDAR</h3>
             <p class="mb-2 text-xs text-light sm:text-xs lg:text-xs">
               {{ t("home.team.pos") }}
             </p>
